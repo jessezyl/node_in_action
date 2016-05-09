@@ -1,0 +1,5 @@
+{
+  "name": "simpleHTTP",
+  "description": "simple http server implemented by net module",
+  "version": "0.0.1"
+}
